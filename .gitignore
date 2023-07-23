@@ -1,1 +1,2 @@
-the1.log
+*.log
+temp/
